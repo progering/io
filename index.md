@@ -33,7 +33,7 @@ Tuleb kokku leppida. Valida on järgnevate aegade vahel:
 * Kolmapäeviti kell 15:45 - 17:15
 * Neljapäeviti kell 15:45 - 17:15
 
-Anna oma huvist ja sobivatest aegadest märku hiljemalt reede (22. septembri) lõunaks [siin](https://docs.google.com/forms/d/e/1FAIpQLSdXpEFWNKra1OtWiOLkfZThl4VOP1UlmA1n9xRHjzm-UVmuuA/viewform). 
+Anna oma huvist ja sobivatest aegadest märku hiljemalt reede (22. septembri) lõunaks [**siin**](https://docs.google.com/forms/d/e/1FAIpQLSdXpEFWNKra1OtWiOLkfZThl4VOP1UlmA1n9xRHjzm-UVmuuA/viewform). 
 
 Reede õhtul leiad siitsamast info selle kohta, millal toimub esimene kohtumine.
 
