@@ -49,7 +49,7 @@ Aivar Annamaa (aivar.annamaa@ut.ee). Olen õpetanud Tartu Ülikoolis programmeer
 
 # Lisa 1. Veebikursus "Teeme ise arvutimänge"
 
-2. oktoobril algab Tartu Ülikooli veebikursus ["Teeme ise arvutimänge"](https://courses.cs.ut.ee/2017/TIAM/fall/Main/HomePage).
+Oktoobris algab Tartu Ülikooli veebikursus ["Teeme ise arvutimänge"](https://courses.cs.ut.ee/2017/TIAM/fall/Main/HomePage).
 
 See on küll mõeldud peamiselt gümnaasiumiõpilastele, aga koos ringi toega on see ka noorematele jõukohane. Kel huvi on, selle saan registreerida lisaks ringile ka selle kursuse erirühma. Lõpetajad saavad diplomi!
 
