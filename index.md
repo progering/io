@@ -1,12 +1,19 @@
 # Programmeerimise ring
 
-logoasdfsadf
+```python
+kool  = input("Millises koolis käid?" )
+klass = int(input("Mitmendas klassis? "))
+huvi  = input("Kas tahaksid osata programmeerida? ")
 
-![Python logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+if kool == "TDK" and klass in [8, 9] and huvi == "jah":
+    print("Oled oodatud programmeerimise ringi!")
+```
 
 ## Mis?
 
 [TDK](http://www.tdk.ee/) 8. ja 9. klassidele mõeldud programmeerimise ring, kus õpetatakse populaarset programmeerimiskeelt [Python](https://www.python.org/).
+
+![Python logo](https://www.python.org/static/favicon.ico)
 
 ## Miks?
 
