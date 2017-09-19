@@ -57,7 +57,7 @@ Ring on osalejatele tasuta.
 
 ## Kes juhendab?
 
-Mina, Aivar Annamaa. Olen õpetanud Tartu Ülikoolis programmeerimise algkursusi alates 2009. aastast. Selle aja sees olen kirjutanud [programmeerimise õpiku](http://progeopik.cs.ut.ee/) ning loonud [algajatele mõeldud programmeerimiskeskkonna Thonny](http://thonny.org/).
+Mina, Aivar Annamaa ([aivar.annamaa@ut.ee](mailto:aivar.annamaa@ut.ee)). Olen õpetanud Tartu Ülikoolis programmeerimise algkursusi alates 2009. aastast. Selle aja sees olen kirjutanud [programmeerimise õpiku](http://progeopik.cs.ut.ee/) ning loonud [algajatele mõeldud programmeerimiskeskkonna Thonny](http://thonny.org/).
 
 ## Lisa 1. Veebikursus "Teeme ise arvutimänge"
 
