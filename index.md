@@ -18,14 +18,20 @@ if kool == 'TDK' and klass in [8, 9] and huvi == 'jah':
 * Programmeerimine võimaldab teha lahedaid asju.
 * Programmeerimine ise on lahe.
 * Programmeerijatel on head karjäärivõimalused.
-* Tulevikul võib algtasemel programmeerimisoskus olla nõutud paljudel erialadel.
+* Tulevikus võib algtasemel programmeerimisoskus olla nõutud paljudel erialadel.
 * Miks mitte?
 
 ## Millal?
 
-Tuleb [kokku leppida](https://doodle.com/poll/y5ef5is45mhw75u8). Palun anna oma huvist ja sobivatest aegadest märku hiljemalt reede (22. septembri) lõunaks. 
+Tuleb kokku leppida. Valida on järgnevate aegade vahel:
 
-Reede õhtul leiad siitsamast info selle kohta, millal toimub esimene kohtumine.
+* Teisipäeviti kell 15:45 - 17:15
+* Kolmapäeviti kell 15:45 - 17:15
+* Neljapäeviti kell 15:45 - 17:15
+
+Palun anna oma huvist ja sobivatest aegadest märku hiljemalt reede (22. septembri) lõunaks kirjutades aadressile [aivar.annamaa@ut.ee](mailto:aivar.annamaa@ut.ee). Palun pane teemareaks "Programmeerimise ring"!
+
+Reede õhtul saadan tagasi info selle kohta, millal toimub esimene kohtumine.
 
 ## Kellele sobib?
 
@@ -48,9 +54,6 @@ Aeg-ajalt õpetan kõigile korraga mõne uue programmeerimisvõtte või keelekon
 
 ## Kui palju maksab?
 Ring on osalejatele tasuta.
-
-## Kuidas registreeruda?
-Registreerimine toimub esimesel kohtumisel. Esimese kohtumise aja ja koha kohta loe ülaltpoolt.
 
 ## Kes juhendab?
 
