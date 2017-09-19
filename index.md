@@ -1,6 +1,6 @@
 # Mis?
 
-[http://www.tdk.ee/](TDK) 8. ja 9. klassidele mõeldud programmeerimise ring, kus õpetatakse populaarset programmeerimiskeelt [Python](https://www.python.org/).
+[TDK](http://www.tdk.ee/) 8. ja 9. klassidele mõeldud programmeerimise ring, kus õpetatakse populaarset programmeerimiskeelt [Python](https://www.python.org/).
 
 # Miks?
 
