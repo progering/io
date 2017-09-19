@@ -33,7 +33,7 @@ Tuleb kokku leppida. Valida on järgnevate aegade vahel:
 * Kolmapäeviti kell 15:45 - 17:15
 * Neljapäeviti kell 15:45 - 17:15
 
-Anna oma huvist ja sobivatest aegadest märku hiljemalt reede (22. septembri) lõunaks [**siin**](https://docs.google.com/forms/d/e/1FAIpQLSdXpEFWNKra1OtWiOLkfZThl4VOP1UlmA1n9xRHjzm-UVmuuA/viewform). 
+Anna oma huvist ja sobivatest aegadest märku hiljemalt reede (22. septembri) lõunaks siin: https://docs.google.com/forms/d/e/1FAIpQLSdXpEFWNKra1OtWiOLkfZThl4VOP1UlmA1n9xRHjzm-UVmuuA/viewform. 
 
 Reede õhtul leiad siitsamast info selle kohta, millal toimub esimene kohtumine.
 
@@ -57,7 +57,7 @@ Ring on osalejatele tasuta.
 
 ## Kes juhendab?
 
-Mina, Aivar Annamaa ([aivar.annamaa@ut.ee](mailto:aivar.annamaa@ut.ee)). Olen õpetanud Tartu Ülikoolis programmeerimise algkursusi alates 2009. aastast. Selle aja sees olen kirjutanud [programmeerimise õpiku](http://progeopik.cs.ut.ee/) ning loonud [algajatele mõeldud programmeerimiskeskkonna Thonny](http://thonny.org/).
+Mina, Aivar Annamaa. Olen õpetanud Tartu Ülikoolis programmeerimise algkursusi alates 2009. aastast. Selle aja sees olen kirjutanud [programmeerimise õpiku](http://progeopik.cs.ut.ee/) ning loonud [algajatele mõeldud programmeerimiskeskkonna Thonny](http://thonny.org/).
 
 ## Lisa 1. Veebikursus "Teeme ise arvutimänge"
 
@@ -72,3 +72,5 @@ Soovi korral aitan võtta osa [informaatikavõistlusest Kobras](http://kobras.ut
 
 
 Aivar Annamaa
+
+[aivar.annamaa@ut.ee](mailto:aivar.annamaa@ut.ee)
