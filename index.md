@@ -1,19 +1,17 @@
-# Programmeerimise ring
+# Programmeerimise ring ![Python logo](https://www.python.org/static/favicon.ico)
 
 ```python
-kool  = input("Millises koolis käid?" )
-klass = int(input("Mitmendas klassis? "))
-huvi  = input("Kas tahaksid osata programmeerida? ")
+kool  = input('Millises koolis käid? ')
+klass = int(input('Mitmendas klassis? '))
+huvi  = input('Kas tahaksid osata programmeerida? ')
 
-if kool == "TDK" and klass in [8, 9] and huvi == "jah":
-    print("Oled oodatud programmeerimise ringi!")
+if kool == 'TDK' and klass in [8, 9] and huvi == 'jah':
+    print('Oled oodatud programmeerimise ringi!')
 ```
 
 ## Mis?
 
 [TDK](http://www.tdk.ee/) 8. ja 9. klassidele mõeldud programmeerimise ring, kus õpetatakse populaarset programmeerimiskeelt [Python](https://www.python.org/).
-
-![Python logo](https://www.python.org/static/favicon.ico)
 
 ## Miks?
 
@@ -35,11 +33,11 @@ Eelkõige neile, kes pole varem programmeerinud, aga tegevust leiavad ka need, k
 
 ## Tegevused?
 
-Esimesel korral tutvume [töövahenditega](http://thonny.org) ja uurime, mida Pythoniga üldse teha saab. Vaatame üle mõned Pythonis kirjutatud lihtsad veebi- ja nutiprogrammid ning algelised mängud ja proovime neid muuta. Lõpuks kirjutame koos ühe programmi, mis oskab suvaliselt veebilehelt kõik pildid alla laadida. 
+**Esimesel korral** tutvume [töövahenditega](http://thonny.org) ja uurime, mida Pythoniga üldse teha saab. Vaatame üle mõned Pythonis kirjutatud lihtsad veebi- ja nutiprogrammid ning algelised mängud ja proovime neid muuta. Lõpuks kirjutame koos ühe programmi, mis oskab suvaliselt veebilehelt kõik pildid alla laadida. 
 
-Teisel ja kolmandal korral võtame mõned lihtsamad harjutused tõsisemalt ette. Eesmärk on saada käppa Pythoni kõige olulisemad väljendid ja keelekonstruktsioonid.
+**Teisel ja kolmandal nädalal** võtame mõned lihtsamad harjutused tõsisemalt ette. Eesmärk on saada käppa Pythoni kõige olulisemad väljendid ja keelekonstruktsioonid.
 
-Alates 4. nädalast algab "töö sektsioonides", kus igaüks saab liikuda edasi omas tempos vastavalt enda huvidele ning ambitsioonidele. 
+**Alates 4. nädalast** algab "töö sektsioonides", kus igaüks saab liikuda edasi omas tempos vastavalt enda huvidele ning ambitsioonidele. 
 
 Kes soovib, saab harjutustega jätkata, aga kes tunneb end piisavalt uljalt, hakkab kirjutama programmi just sellisel teemal, mis teda kõige rohkem huvitab. Soovi korral võib sama projekti kallale ka mitmekesi asuda.
 
@@ -64,7 +62,7 @@ Oktoobris algab Tartu Ülikooli veebikursus ["Teeme ise arvutimänge"](https://c
 
 See on küll mõeldud peamiselt gümnaasiumiõpilastele, aga koos ringi toega on see ka noorematele jõukohane. Kel huvi on, selle saan registreerida lisaks ringile ka selle kursuse erirühma. Lõpetajad saavad diplomi!
 
-Sellel kursusel varasemalt tehtud tööd: https://www.youtube.com/watch?v=THyuYnEhEQ0&feature=youtu.be
+Sellel kursusel varasemalt tehtud tööd: https://www.youtube.com/watch?v=THyuYnEhEQ0
 
 ## Lisa 2. Üritused
 Soovi korral aitan võtta osa [informaatikavõistlusest Kobras](http://kobras.ut.ee/) ja edaspidi ka [Eesti informaatikaolümpiaadist](http://eio.ut.ee/).
