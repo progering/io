@@ -1,8 +1,13 @@
-# Mis?
+# Programmeerimise ring
+
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" width="300", height="101" />
+
+
+## Mis?
 
 [TDK](http://www.tdk.ee/) 8. ja 9. klassidele mõeldud programmeerimise ring, kus õpetatakse populaarset programmeerimiskeelt [Python](https://www.python.org/).
 
-# Miks?
+## Miks?
 
 * Programmeerimine võimaldab teha lahedaid asju.
 * Programmeerimine ise on lahe.
@@ -10,19 +15,17 @@
 * Tulevikul võib algtasemel programmeerimisoskus olla nõutud paljudel erialadel.
 * Miks mitte?
 
-# Millal?
+## Millal?
 
-Tuleb [kokku leppida](https://doodle.com/poll/y5ef5is45mhw75u8).
-
-Palun anna oma huvist ja sobivatest aegadest märku hiljemalt reede (22. septembri) lõunaks. 
+Tuleb [kokku leppida](https://doodle.com/poll/y5ef5is45mhw75u8). Palun anna oma huvist ja sobivatest aegadest märku hiljemalt reede (22. septembri) lõunaks. 
 
 Reede õhtul leiad siitsamast info selle kohta, millal toimub esimene kohtumine.
 
-# Kellele sobib?
+## Kellele sobib?
 
 Eelkõige neile, kes pole varem programmeerinud, aga tegevust leiavad ka need, kes midagi juba oskavad.
 
-# Tegevused?
+## Tegevused?
 
 Esimesel korral tutvume [töövahenditega](http://thonny.org) ja uurime, mida Pythoniga üldse teha saab. Vaatame üle mõned Pythonis kirjutatud lihtsad veebi- ja nutiprogrammid ning algelised mängud ja proovime neid muuta. Lõpuks kirjutame koos ühe programmi, mis oskab suvaliselt veebilehelt kõik pildid alla laadida. 
 
@@ -37,23 +40,25 @@ Aitan nii teema valikul kui ka programmeerimisel ettetulevate tõrgete ja kõhkl
 Aeg-ajalt õpetan kõigile korraga mõne uue programmeerimisvõtte või keelekonstruktsiooni. Teeme ka mõned demosessioonid, kus kõigil on võimalik oma projekti hetkeseisu teistele näidata ja teistelt tagasisidet saada.
 
 
-# Kui palju maksab?
+## Kui palju maksab?
 Ring on osalejatele tasuta.
 
-# Kuidas registreeruda?
+## Kuidas registreeruda?
 Registreerimine toimub esimesel kohtumisel. Esimese kohtumise aja ja koha kohta loe ülaltpoolt.
 
-# Kes juhendab?
+## Kes juhendab?
 
 Aivar Annamaa (aivar.annamaa@ut.ee). Olen õpetanud Tartu Ülikoolis programmeerimise algkursusi alates 2009. aastast. Selle aja sees olen kirjutanud [programmeerimise õpiku](http://progeopik.cs.ut.ee/) ning loonud [algajatele mõeldud programmeerimiskeskkonna Thonny](http://thonny.org/).
 
-# Lisa 1. Veebikursus "Teeme ise arvutimänge"
+## Lisa 1. Veebikursus "Teeme ise arvutimänge"
 
 Oktoobris algab Tartu Ülikooli veebikursus ["Teeme ise arvutimänge"](https://courses.cs.ut.ee/2017/TIAM/fall/Main/HomePage).
 
 See on küll mõeldud peamiselt gümnaasiumiõpilastele, aga koos ringi toega on see ka noorematele jõukohane. Kel huvi on, selle saan registreerida lisaks ringile ka selle kursuse erirühma. Lõpetajad saavad diplomi!
 
-# Lisa 2. Üritused
+Sellel kursusel varasemalt tehtud tööd: https://www.youtube.com/watch?v=THyuYnEhEQ0&feature=youtu.be
+
+## Lisa 2. Üritused
 Soovi korral aitan võtta osa [informaatikavõistlusest Kobras](http://kobras.ut.ee/) ja edaspidi ka [Eesti informaatikaolümpiaadist](http://eio.ut.ee/).
 
 
