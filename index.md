@@ -70,7 +70,6 @@ Sellel kursusel varasemalt tehtud tööd: https://www.youtube.com/watch?v=THyuYn
 ## Lisa 2. Üritused
 Soovi korral aitan võtta osa [informaatikavõistlusest Kobras](http://kobras.ut.ee/) ja edaspidi ka [Eesti informaatikaolümpiaadist](http://eio.ut.ee/).
 
-
-Aivar Annamaa
+## Kontakt
 
 [aivar.annamaa@ut.ee](mailto:aivar.annamaa@ut.ee)
