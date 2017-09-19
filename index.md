@@ -21,6 +21,10 @@ if kool == 'TDK' and klass in [8, 9] and huvi == 'jah':
 * Tulevikus võib algtasemel programmeerimisoskus olla nõutud paljudel erialadel.
 * Miks mitte?
 
+## Kellele sobib?
+
+Eelkõige neile, kes pole varem programmeerinud, aga tegevust leiavad ka need, kes midagi juba oskavad.
+
 ## Millal?
 
 Tuleb kokku leppida. Valida on järgnevate aegade vahel:
@@ -32,10 +36,6 @@ Tuleb kokku leppida. Valida on järgnevate aegade vahel:
 Palun anna oma huvist ja sobivatest aegadest märku hiljemalt reede (22. septembri) lõunaks kirjutades aadressile [aivar.annamaa@ut.ee](mailto:aivar.annamaa@ut.ee). Palun pane teemareaks "Programmeerimise ring"!
 
 Reede õhtul saadan tagasi info selle kohta, millal toimub esimene kohtumine.
-
-## Kellele sobib?
-
-Eelkõige neile, kes pole varem programmeerinud, aga tegevust leiavad ka need, kes midagi juba oskavad.
 
 ## Tegevused?
 
