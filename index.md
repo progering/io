@@ -1,7 +1,7 @@
 # Programmeerimise ring
 
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" width="300", height="101" />
-
+logoasdfsadf
+![](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png | width=300)
 
 ## Mis?
 
