@@ -65,7 +65,7 @@ Oktoobris algab Tartu Ülikooli veebikursus ["Teeme ise arvutimänge"](https://c
 
 See on küll mõeldud peamiselt gümnaasiumiõpilastele, aga koos ringi toega on see ka noorematele jõukohane. Kel huvi on, selle saan registreerida lisaks ringile ka selle kursuse erirühma. Lõpetajad saavad diplomi!
 
-Sellel kursusel varasemalt tehtud tööd: https://www.youtube.com/watch?v=THyuYnEhEQ0
+Sellel kursusel varasemalt tehtud tööd: [youtube.com/...](https://www.youtube.com/watch?v=THyuYnEhEQ0)
 
 ## Lisa 2. Üritused
 Soovi korral aitan võtta osa [informaatikavõistlusest Kobras](http://kobras.ut.ee/) ja edaspidi ka [Eesti informaatikaolümpiaadist](http://eio.ut.ee/).
