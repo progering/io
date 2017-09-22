@@ -30,12 +30,12 @@ Eelkõige neile, kes pole varem programmeerinud, aga tegevust leiavad ka need, k
 Tuleb kokku leppida. Valida on järgnevate aegade vahel:
 
 * Teisipäeviti kell 15:45 - 17:15
-* Kolmapäeviti kell 15:45 - 17:15
+* ~~Kolmapäeviti kell 15:45 - 17:15~~
 * Neljapäeviti kell 15:45 - 17:15
 
 Anna oma huvist ja sobivatest aegadest märku hiljemalt reede (22. septembri) lõunaks siin: [https://docs.google.com/forms/...](https://docs.google.com/forms/d/e/1FAIpQLSdXpEFWNKra1OtWiOLkfZThl4VOP1UlmA1n9xRHjzm-UVmuuA/viewform). 
 
-Reede õhtul leiad siitsamast info selle kohta, millal toimub esimene kohtumine.
+**22. septembri seisuga on teisipäevad ja neljapäevad sama populaarsed. Tõenäoliselt läheb käiku neljapäev (st. esimene kohtumine toimuks 28. septembril), aga kel võimalik, siis hoidke praegu ka 26. september vaba. Loodan selle dilemma fikseerida võibolla juba täna (22. septembri) õhtuks, aga hiljemalt 25. septembriks.**
 
 ## Tegevused?
 
