@@ -71,7 +71,7 @@ def tervitus():
 <div style="background-color:white; padding:20px; margin:10px">
 <h3>Sisesta andmed ja vajuta nuppu</h3>
 <form action="https://aivarannamaa.pythonanywhere.com/">
-  <table>
+  <table border="0">
   <tr><td>Nimi</td><td><input type="text" name="nimi"></td></tr>
   <tr><td>Vanus</td><td><input type="number" name="vanus"></td></tr>
   </table>
