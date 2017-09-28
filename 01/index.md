@@ -1,14 +1,19 @@
 # 28. september 2017
 
 ## Thonny installimine
-[http://thonny.org](http://thonny.org)
+Ringis hakkame kasutama algajatele mõeldud programmeerimiskeskkonda Thonny. Installimiseks vajalikud failid saab aadressilt [http://thonny.org](http://thonny.org).
 
 ## Tere, maailm!
+
+Kopeeri Thonnysse järgnev tekst ja vajuta F5:
+
 ```python
 print('Tere, maailm!')
 ```
 
 ## Kilpkonn
+Lisaks teksti väljastamisele on Pythonis väga lihtne ka joonistada:
+
 ```python
 from turtle import *
 
@@ -37,8 +42,27 @@ left(120)
 ```
 
 ## Veebiprogrammid
+[https://www.pythonanywhere.com](https://www.pythonanywhere.com) on sait, kuhu on võimalik tasuta üles panna Pythonis kirjutatud veebiprogramme.
 
-* [https://www.pythonanywhere.com](https://www.pythonanywhere.com)
+```python
+from flask import Flask, request
+app = Flask(__name__)
+
+@app.route('/')
+def tervitus():
+    nimi  = request.args.get("nimi")
+    vanus = request.args.get("vanus", type=int)
+
+    # Reageeri vastavalt vanusele
+    if vanus < 20:
+        return 'Tere, ' + nimi + '!'
+    else:
+        return ('Olge tervitatud, lugupeetud '
+              + nimi + '! Kas soovite istuda?')
+```
+
+### Demo
+
 * [https://aivarannamaa.pythonanywhere.com/?nimi=Aivar&vanus=38](https://aivarannamaa.pythonanywhere.com/?nimi=Aivar&vanus=38)
 * [https://aivarannamaa.pythonanywhere.com/?nimi=Mari&vanus=12](https://aivarannamaa.pythonanywhere.com/?nimi=Mari&vanus=12)
 
@@ -53,11 +77,16 @@ left(120)
 </form> 
 </div>
 
-## Materjalid
+## Teeme ise arvutimänge
+
+Tartu Ülikool korraldab [veebikursuse, kus õpetatakse Pythoniga arvutimängude loomist](https://courses.cs.ut.ee/2017/TIAM/fall/Main/HomePage).
+
+**NB! Kuigi ametlik registreerumine on lõppenud, on ringis osalejatel veel võimalik ka selle kursusega liituda. Huvi korral kirjuta [aivar.annamaa@ut.ee](mailto:aivar.annamaa@ut.ee)!**
+
+## Lisamaterjal
+
+Kel rohkem huvi, võib uurida Tartu Ülikooli arvutiteaduse instituudi [programmeerimise õpikut](http://progeopik.cs.ut.ee).
 
 ## Küsimused
 [aivar.annamaa@ut.ee](mailto:aivar.annamaa@ut.ee)
 
-* Tere, maailm!
-* Sisendiga programm
-    * läbimäng
