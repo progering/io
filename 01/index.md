@@ -77,6 +77,9 @@ def tervitus():
 </form> 
 </div>
 
+## Veel näiteid
+[https://github.com/progering/progering.github.io/tree/master/01](https://github.com/progering/progering.github.io/tree/master/01)
+
 ## Teeme ise arvutimänge
 
 Tartu Ülikool korraldab [veebikursuse, kus õpetatakse Pythoniga arvutimängude loomist](https://courses.cs.ut.ee/2017/TIAM/fall/Main/HomePage).
