@@ -39,6 +39,8 @@ forward(30)
 left(120)
 forward(30)
 left(120)
+
+done()
 ```
 
 ## Veebiprogrammid
