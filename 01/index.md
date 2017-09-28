@@ -42,7 +42,7 @@ left(120)
 * [https://aivarannamaa.pythonanywhere.com/?nimi=Aivar&vanus=38](https://aivarannamaa.pythonanywhere.com/?nimi=Aivar&vanus=38)
 * [https://aivarannamaa.pythonanywhere.com/?nimi=Mari&vanus=12](https://aivarannamaa.pythonanywhere.com/?nimi=Mari&vanus=12)
 
-<div style="background-color:white;padding:20px">
+<div style="background-color:white; padding:20px; margin:10px">
 <h3>Sisesta andmed ja vajuta nuppu</h3>
 <form action="https://aivarannamaa.pythonanywhere.com/">
   <table>
