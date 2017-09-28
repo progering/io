@@ -5,7 +5,7 @@ kool  = input('Millises koolis käid? ')
 klass = int(input('Mitmendas klassis? '))
 huvi  = input('Kas tahaksid osata programmeerida? ')
 
-if kool == 'TDK' and klass in [8, 9] and huvi == 'jah':
+if kool == 'TDK' and (klass == 8 or klass == 9) and huvi == 'jah':
     print('Oled oodatud programmeerimise ringi!')
 ```
 
