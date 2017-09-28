@@ -39,12 +39,14 @@ left(120)
 ## Veebiprogrammid
 
 * [https://www.pythonanywhere.com](https://www.pythonanywhere.com)
-* [http://aivarannamaa.pythonanywhere.com/?nimi=Aivar&vanus=38](http://aivarannamaa.pythonanywhere.com/?nimi=Aivar&vanus=38)
-* [http://aivarannamaa.pythonanywhere.com/?nimi=Mari&vanus=12](http://aivarannamaa.pythonanywhere.com/?nimi=Mari&vanus=12)
+* [https://aivarannamaa.pythonanywhere.com/?nimi=Aivar&vanus=38](https://aivarannamaa.pythonanywhere.com/?nimi=Aivar&vanus=38)
+* [https://aivarannamaa.pythonanywhere.com/?nimi=Mari&vanus=12](https://aivarannamaa.pythonanywhere.com/?nimi=Mari&vanus=12)
 
-<form action="http://aivarannamaa.pythonanywhere.com/">
-  Nimi: <input type="text" name="nimi"><br>
-  Vanus: <input type="number" name="vanus" ><br><br>
+<form action="https://aivarannamaa.pythonanywhere.com/">
+  <table>
+  <tr><td>Nimi</td><td><input type="text" name="nimi"></td></tr>
+  <tr><td>Vanus</td><td><input type="number" name="vanus"></td></tr>
+  </table>
   <input type="submit" value="Saada">
 </form> 
 

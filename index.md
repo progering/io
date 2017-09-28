@@ -1,5 +1,8 @@
 # Programmeerimise ring ![Python logo](https://www.python.org/static/favicon.ico)
 
+* [27. september](/01)
+
+
 ```python
 kool  = input('Millises koolis käid? ')
 klass = int(input('Mitmendas klassis? '))
