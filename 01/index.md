@@ -42,6 +42,8 @@ left(120)
 * [https://aivarannamaa.pythonanywhere.com/?nimi=Aivar&vanus=38](https://aivarannamaa.pythonanywhere.com/?nimi=Aivar&vanus=38)
 * [https://aivarannamaa.pythonanywhere.com/?nimi=Mari&vanus=12](https://aivarannamaa.pythonanywhere.com/?nimi=Mari&vanus=12)
 
+<div style="background-color:white;padding:20px">
+<h3>Sisesta andmed ja vajuta nuppu</h3>
 <form action="https://aivarannamaa.pythonanywhere.com/">
   <table>
   <tr><td>Nimi</td><td><input type="text" name="nimi"></td></tr>
@@ -49,6 +51,7 @@ left(120)
   </table>
   <input type="submit" value="Saada">
 </form> 
+</div>
 
 ## Materjalid
 
