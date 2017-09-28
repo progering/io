@@ -1,6 +1,6 @@
 # Programmeerimise ring ![Python logo](https://www.python.org/static/favicon.ico)
 
-* [27. september](/01)
+* [28. september](/01)
 
 
 ```python
