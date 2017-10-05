@@ -9,8 +9,14 @@
 
 # 04. oktoober 2017
 
-## Tehted arvudega
+## Arvud
+Pythonis tehakse vahet **täisarvudel** (nt. `-2` või `889887575465463`) ja **ujukomaarvudel**, mida võib nimetada ka murdarvudeks (nt. `3.14`).
 
+<aside class="notice">
+NB! Ujukomaarvude täis- ja murdosa vahele käib **punkt**, mitte koma. Komal on Pythonis teine tähendus.
+</aside>
+
+### Tehted arvudega
 <table border="1" class="docutils">
 <colgroup>
 <col width="23%" />
@@ -79,3 +85,6 @@
 </tr>
 </tbody>
 </table>
+
+## Täpsemalt
+[Samad teemad programmeerimise õpikus](http://progeopik.cs.ut.ee/02_lihtlaused.html#soned)
