@@ -5,6 +5,15 @@
     font-family: monospace;
     white-space: pre;
 }
+
+aside.notice {
+    background-color:wheat;
+    border-color: black;
+    border-width: 1px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
 </style>
 
 # 04. oktoober 2017
@@ -85,6 +94,33 @@ NB! Ujukomaarvude täis- ja murdosa vahele käib **punkt**, mitte koma. Komal on
 </tr>
 </tbody>
 </table>
+
+### Moodul math
+
+Suur hulk matemaatilisi funktsioone ja konstante on kättesaadavad peale seda, kui need *importida* moodulist nimega `math`:
+
+```python
+>>> from math import *
+>>> cos(pi * 1.5)
+-1.8369701987210297e-16
+>>> atan(0.5)
+0.4636476090008061
+>>> radians(360)
+6.283185307179586
+>>> 2 * pi
+6.283185307179586
+>>> degrees(2*pi)
+360.0
+>>> log(10.0)
+2.302585092994046
+>>> log(e)
+1.0
+>>> log(100,10)
+2.0
+>>> sqrt(9)
+3.0
+```
+
 
 ## Täpsemalt
 [Samad teemad programmeerimise õpikus](http://progeopik.cs.ut.ee/02_lihtlaused.html#soned)
