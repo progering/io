@@ -7,7 +7,7 @@
 }
 
 aside.notice {
-    background-color:wheat;
+    background-color:#fffed6;
     border-color: black;
     border-width: 1px;
     padding: 10px;
@@ -22,7 +22,7 @@ aside.notice {
 Pythonis tehakse vahet **täisarvudel** (nt. `-2` või `889887575465463`) ja **ujukomaarvudel**, mida võib nimetada ka murdarvudeks (nt. `3.14`).
 
 <aside class="notice">
-NB! Ujukomaarvude täis- ja murdosa vahele käib **punkt**, mitte koma. Komal on Pythonis teine tähendus.
+NB! Ujukomaarvude täis- ja murdosa vahele käib <b>punkt</b>, mitte koma. Komal on Pythonis teine tähendus.
 </aside>
 
 ### Tehted arvudega
@@ -120,6 +120,14 @@ Suur hulk matemaatilisi funktsioone ja konstante on kättesaadavad peale seda, k
 >>> sqrt(9)
 3.0
 ```
+
+### Harjutus
+Väärtusta Pythoni käsureal järgmised avaldised:
+
+* ![](sqrt.svg)
+* ![](aste.svg)
+* ![](4rt.svg)
+
 
 
 ## Täpsemalt
