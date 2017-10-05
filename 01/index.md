@@ -1,4 +1,4 @@
-[Avaleht](/)
+[<< Avaleht](/)
 
 # 28. september 2017
 

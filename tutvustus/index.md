@@ -1,4 +1,4 @@
-[Avaleht](/)
+[<< Avaleht](/)
 
 # Ringi tutvustus
 ## Mis?
