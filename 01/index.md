@@ -1,3 +1,5 @@
+[Avaleht](/)
+
 # 28. september 2017
 
 ## Thonny installimine
