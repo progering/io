@@ -126,8 +126,32 @@ Väärtusta Pythoni käsureal järgmised avaldised:
 
 * ![](sqrt.svg)
 * ![](aste.svg)
-* ![](4rt.svg)
 
+### Tunnis tehtud näidisprogramm
+```python
+from random import randint
+
+õigeid_vastuseid = 0
+while True:
+    x = randint(1, 10)
+    y = randint(1, 10)
+    õige_vastus = x + y
+
+    print("Tehe on", x, "+", y)
+    kasutaja_vastus = int(input("Sisesta vastus: "))
+
+    if kasutaja_vastus == õige_vastus:
+        print("Tubli!")
+        õigeid_vastuseid = õigeid_vastuseid + 1
+    else:
+        print("Vale! Õige vastus on", õige_vastus)
+        print("Vastasid õigesti", õigeid_vastuseid, "korda")
+        break
+
+print("tadaa!")
+
+
+```
 
 
 ## Täpsemalt
