@@ -181,6 +181,18 @@ Sisesta sõna:
 Sisestasid tühja sõna, lõpetan töö.
 ```
 
+Tunnis tehtud lahendus:
+ 
+```python
+while True:
+    s = input("Sisesta sõna: ")
+    if s == '':
+        break
+    print(s.upper()
+          + ", " + s.lower()
+          + ", " + s[0:2] + "...")
+```
+
 
 
 ### Harjutus. Salasõna kontrollija
@@ -190,9 +202,27 @@ Oletame, et salasõna kriteeriumid on järgmised:
 
 * pikkus on vähemalt 8 sümbolit
 * sisaldab nii suuri kui väikseid tähti
-* sisaldab vähemalt ühte numbrit
+* ei tohi olla "jalgratas", "JalgRatas", "jalgRAtaS", jne...
 
 ```
 Sisesta sõna: Keerukuju
 Sõnas pole numbreid!
+```
+
+Tunnis tehtud lahendus:
+```python
+sõna = input("Sisesta soovitud salasõna: ")
+
+if len(sõna) < 8:
+    print("Ei sobi, parool on liiga lühike")
+elif sõna.lower() == sõna:
+    print("Ei sobi, kõik tähed on väikesed")
+elif sõna.upper() == sõna:
+    print("Ei sobi, kõik tähed on suured")
+elif sõna.lower() == "jalgratas":
+    print("Jalgratas ei sobi")
+else:
+    print("Sobib")
+    
+
 ```
