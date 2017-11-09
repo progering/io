@@ -60,7 +60,7 @@ def tervitus():
     b = request.args.get("b", type=int)
     c = request.args.get("c", type=int)
 
-    võrrand = str(a) + "x²+" + str(b) + "x+" + str(c) + "=0"
+    vorrand = str(a) + "x²+" + str(b) + "x+" + str(c) + "=0"
 
     D = b**2-4*a*c
 
@@ -75,7 +75,7 @@ def tervitus():
         else:
             lahendid = "1. lahend: " + str(x1) + "<br/>2. lahend: " + str(x2)
 
-    return ("<h1>Võrrand</h1>\n" + võrrand
+    return ("<h1>Võrrand</h1>\n" + vorrand
         + "\n<h1>Lahendid</h1>\n" + lahendid)
 
 ```
