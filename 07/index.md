@@ -31,13 +31,13 @@ c = int(input("C="))
 
 print(str(a) + "x²+" + str(b) + "x+" + str(c) + "=0")
 
-D = b**2-4*a*c
+D = b**2 - 4*a*c
 
 if D < 0:
     print("Lahend puudub")
 else:
-    x1 = (-b + (sqrt(D))) / (2*a)
-    x2 = (-b - (sqrt(D))) / (2*a)
+    x1 = (-b + sqrt(D)) / (2*a)
+    x2 = (-b - sqrt(D)) / (2*a)
 
     if x1 == x2:
         print("Ainuke lahend on", x1)
@@ -62,13 +62,13 @@ def tervitus():
 
     vorrand = str(a) + "x²+" + str(b) + "x+" + str(c) + "=0"
 
-    D = b**2-4*a*c
+    D = b**2 - 4*a*c
 
     if D < 0:
         lahendid = "Lahend puudub"
     else:
-        x1 = (-b + (sqrt(D))) / (2*a)
-        x2 = (-b - (sqrt(D))) / (2*a)
+        x1 = (-b + sqrt(D)) / (2*a)
+        x2 = (-b - sqrt(D)) / (2*a)
 
         if x1 == x2:
             lahendid = "Ainuke lahend on "  + str(x1)
