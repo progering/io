@@ -16,5 +16,6 @@ if kool == 'TDK' and (klass == 8 or klass == 9) and huvi == 'jah':
 * [19. oktoober](/04)
 * [26. oktoober](/05)
 * [02. november](/06)
+* [09. november](/07)
 
 
