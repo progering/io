@@ -44,6 +44,7 @@ else:
     else:
         print("1. lahend:", x1)
         print("2. lahend:", x2)
+```
 
 ## Veebiprogramm
 
@@ -84,5 +85,18 @@ def tervitus():
 * [http://aivarannamaa.pythonanywhere.com/?a=3&b=-4&c=-4](http://aivarannamaa.pythonanywhere.com/?a=3&b=-4&c=-4)
 * [http://aivarannamaa.pythonanywhere.com/?a=1&b=4&c=4](http://aivarannamaa.pythonanywhere.com/?a=1&b=4&c=4)
 * [http://aivarannamaa.pythonanywhere.com/?a=1&b=4&c=14](http://aivarannamaa.pythonanywhere.com/?a=1&b=4&c=14)
+* URL-i võid panna kokku ka alloleva vormi abil:
+
+<div style="background-color:white; padding:20px; margin:10px">
+<h3>Sisesta andmed ja vajuta nuppu</h3>
+<form action="https://aivarannamaa.pythonanywhere.com/">
+  <table border="0">
+  <tr><td>a</td><td><input type="number" name="a"></td></tr>
+  <tr><td>b</td><td><input type="number" name="b"></td></tr>
+  <tr><td>c</td><td><input type="number" name="c"></td></tr>
+  </table>
+  <input type="submit" value="Arvuta">
+</form> 
+</div>
 
 
