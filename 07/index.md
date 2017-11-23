@@ -18,85 +18,85 @@ aside.notice {
 
 # 9. november 
 
-## Failide lugemine ja kirjutamine
+Panime kokku ruutvõrrandi lahendamise programmi
 
-Pythonis on lihtne lugeda andmeid tekstifailist või neid sinna kirjutada.
-
-Täpsemalt saab sõnedest lugeda [siit](http://progeopik.cs.ut.ee/02_lihtlaused.html#failide-lugemine-reakaupa).
-
-### Failist kindlate ridade lugemine
+## Tunnis tehtud lahendus
 
 ```python
-f = open('andmed.txt')
+from math import sqrt
 
-nimi = f.readline()
-vanus = f.readline()
-aadress = f.readline()
+a = int(input("A="))
+b = int(input("B="))
+c = int(input("C="))
 
-print("Nimi:", nimi)
-print("Vanus:", vanus, "aastat")
-print("Aadress:", aadress)
+print(str(a) + "x²+" + str(b) + "x+" + str(c) + "=0")
 
-f.close()
+D = b**2 - 4*a*c
+
+if D < 0:
+    print("Lahend puudub")
+else:
+    x1 = (-b + sqrt(D)) / (2*a)
+    x2 = (-b - sqrt(D)) / (2*a)
+
+    if x1 == x2:
+        print("Ainuke lahend on", x1)
+    else:
+        print("1. lahend:", x1)
+        print("2. lahend:", x2)
 ```
 
-### Failist lugemine reakaupa, kui ridade arv pole teada
+## Veebiprogramm
 
 ```python
-f = open('andmed.txt')
+from flask import Flask, request
+app = Flask(__name__)
 
-while True:
-    rida = f.readline()
-    
-    if rida == '':
-        break
-    
-    print(rida)
+@app.route('/')
+def tervitus():
+    from math import sqrt
 
-f.close()
+    a = request.args.get("a", type=int)
+    b = request.args.get("b", type=int)
+    c = request.args.get("c", type=int)
+
+    vorrand = str(a) + "x²+" + str(b) + "x+" + str(c) + "=0"
+
+    D = b**2 - 4*a*c
+
+    if D < 0:
+        lahendid = "Lahend puudub"
+    else:
+        x1 = (-b + sqrt(D)) / (2*a)
+        x2 = (-b - sqrt(D)) / (2*a)
+
+        if x1 == x2:
+            lahendid = "Ainuke lahend on "  + str(x1)
+        else:
+            lahendid = "1. lahend: " + str(x1) + "<br/>2. lahend: " + str(x2)
+
+    return ("<h1>Võrrand</h1>\n" + vorrand
+        + "\n<h1>Lahendid</h1>\n" + lahendid)
+
 ```
 
-### Faili sisu korraga lugemine
+## Veebiprogrammi poole pöördumise näited
 
-```python
-f = open('tekst.txt')
-faili_sisu = f.read()
-print(faili_sisu)
-f.close()
-```
+* [http://aivarannamaa.pythonanywhere.com/?a=3&b=-4&c=-4](http://aivarannamaa.pythonanywhere.com/?a=3&b=-4&c=-4)
+* [http://aivarannamaa.pythonanywhere.com/?a=1&b=4&c=4](http://aivarannamaa.pythonanywhere.com/?a=1&b=4&c=4)
+* [http://aivarannamaa.pythonanywhere.com/?a=1&b=4&c=14](http://aivarannamaa.pythonanywhere.com/?a=1&b=4&c=14)
+* URL-i võid panna kokku ka alloleva vormi abil:
 
-### Faili kirjutamine
-```python
-nimi = input("Palun sisesta oma nimi: ")
-vanus = input("vanus: ")
-aadress = input("aadress: ")
-
-f = open("andmed2.txt", "w")
-f.write(nimi + "\n")
-f.write(vanus + "\n")
-f.write(aadress + "\n")
-f.close()
-```
+<div style="background-color:white; padding:20px; margin:10px">
+<h3>Sisesta andmed ja vajuta nuppu</h3>
+<form action="https://aivarannamaa.pythonanywhere.com/">
+  <table border="0">
+  <tr><td>a</td><td><input type="number" name="a"></td></tr>
+  <tr><td>b</td><td><input type="number" name="b"></td></tr>
+  <tr><td>c</td><td><input type="number" name="c"></td></tr>
+  </table>
+  <input type="submit" value="Arvuta">
+</form> 
+</div>
 
 
-### Näide
-Programm loeb failist temperatuuri Fahrenheiti skaalal ja väljastab selle Celsiuse skaalal
-
-```python
-f = open('fahrenheit.txt')
-
-temp_f = float(f.readline())
-temp_c = (temp_f - 32) * (5/9)
-
-print(temp_f, "on Celsiuse skaalal", temp_c)
-
-f.close()
-```
-
-### Harjutus 1
-Kirjuta eelnevale näitele vastupidine programm, mis loeb failist `celsius.txt` ühe Celsiuse temperatuuri, ning väljastab (st. prindib) selle Fahrenheiti skaalal.
-
-### Harjutus 2
-Muuda eelmist programmi nii, et see töötaks õigesti mitmerealiste failidega -- igalt realt tuleb lugeda Celsiuse temperatuur ja väljastada see Fahrenheiti skaalal.
-
-Programm peaks töötama suvalise arvu ridade korral.
