@@ -18,7 +18,9 @@ aside.notice {
 
 # 30. november 
 
-## Makeblock robotid 1
+Kohal 10 õpilast.
+
+## Makeblock robotid
 
 Osalejad panid kokku [Makeblock](http://makeblock.com/)'i roboteid. Käiku läksid 2 [mBot korralvalvur](http://store.makeblock.com/product/mbot-ranger-robot-kit)'it ja 2 [Ülim kümme-ühes](http://store.makeblock.com/product/ultimate-robot-kit) robootikakomplekti.
 

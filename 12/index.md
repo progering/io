@@ -18,11 +18,13 @@ aside.notice {
 
 # 14. detsember 
 
+Kohal 10 õpilast.
+
 ## Scratch
 
 Kuna [Makeblock](http://makeblock.com/)'i robotite programmeerimiseks mõeldud keskkond [mBlock](http://www.mblock.cc/software/mblock/) põhineb [MIT Scratch](https://scratch.mit.edu/)'il, siis uurisime Scratchi tööpõhimõtteid.
 
 # Näited tulemustest
 
-* (Riho katsetus)[https://scratch.mit.edu/projects/193507420/]
+* [Riho katsetus](https://scratch.mit.edu/projects/193507420/)
 

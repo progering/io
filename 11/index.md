@@ -18,7 +18,9 @@ aside.notice {
 
 # 7. detsember 
 
-## Makeblock robotid 2
+Kohal 9 õpilast.
+
+## Makeblock robotid
 
 Jätkasime [Makeblock](http://makeblock.com/)'i robotite kokkupanekuga.
 

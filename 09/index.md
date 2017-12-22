@@ -18,6 +18,8 @@ aside.notice {
 
 # 23. november 
 
+Kohal 8 õpilast.
+
 ## Failide lugemine ja kirjutamine
 
 Pythonis on lihtne lugeda andmeid tekstifailist või neid sinna kirjutada.

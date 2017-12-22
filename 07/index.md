@@ -18,6 +18,8 @@ aside.notice {
 
 # 9. november 
 
+Kohal 10 õpilast.
+
 Panime kokku ruutvõrrandi lahendamise programmi
 
 ## Tunnis tehtud lahendus

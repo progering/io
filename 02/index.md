@@ -16,7 +16,9 @@ aside.notice {
 
 </style>
 
-# 04. oktoober 2017
+# 05. oktoober 2017
+
+Kohal 6 õpilast. 
 
 ## Arvud
 Pythonis tehakse vahet **täisarvudel** (nt. `-2` või `889887575465463`) ja **ujukomaarvudel**, mida võib nimetada ka murdarvudeks (nt. `3.14`).

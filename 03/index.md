@@ -18,6 +18,8 @@ aside.notice {
 
 # 12. oktoober 2017
 
+Kohal 9 õpilast.
+
 ## Kilpkonnagraafika
 
 ```python

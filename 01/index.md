@@ -2,6 +2,8 @@
 
 # 28. september 2017
 
+Kohal 8 õpilast.
+
 ## Thonny installimine
 Ringis hakkame kasutama algajatele mõeldud programmeerimiskeskkonda Thonny. Installimiseks vajalikud failid saab aadressilt [http://thonny.org](http://thonny.org).
 

@@ -18,6 +18,8 @@ aside.notice {
 
 # 2. november 
 
+Kohal 9 õpilast.
+
 ## Sõned
 
 Sõned on tekstijupid, mis kirjutatakse Pythoni koodis ülakomade või jutumärkide vahele.

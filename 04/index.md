@@ -18,6 +18,8 @@ aside.notice {
 
 # 19. oktoober 2017
 
+Kohal 10 õpilast.
+
 ## Kilpkonnagraafika
 
 Jätkasime kilpkonnagraafikaga.
