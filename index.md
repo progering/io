@@ -23,5 +23,11 @@ if kool == 'TDK' and (klass == 8 or klass == 9) and huvi == 'jah':
 * [7. detsember](/11)
 * [14. detsember](/12)
 * [21. detsember](/13)
+* Jõuluvaheaeg ...
+* [11. jaanuar](/14)
+* [18. jaanuar](/15)
+* [25. jaanuar](/16)
+* [1. veebruar](/17)
+
 
 

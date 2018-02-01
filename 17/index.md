@@ -18,7 +18,7 @@ aside.notice {
 
 # 1. veebruar
 
-Hakkame tegelema veebiprogrammidega
+Hakkame tegelema veebiprogrammidega!
 
 ## Lingid
 
@@ -82,5 +82,15 @@ Pilt: <img src="http://portal.tdl.ee/images/pagemaster/kool1c.jpg"/>
 </body>
 </html>
 ```
+
+Mine nüüd aadressile https://<sinu nimi>.pythonanywhere.com/static/katsetus.html ja uuri, kuidas brauser seda lehte näitab.
+
+Selles näites on märgendeid juba rohkem. Mõned neist (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`) ei ole brauseris otseselt nähtavad, aga need peavad korrektses veebilehes siiski olemas olema.
+
+## Codecademy
+
+HTML-i põhimõtete õppimiseks jätame nüüd Pythonanywhere'i mõneks ajaks kõrvale ja võtame ette ühe veebikursuse.
+
+Mine lehele [https://www.codecademy.com/tracks/web-et](https://www.codecademy.com/tracks/web-et), tee seal endale konto ja järgi edasisi juhiseid.
 
 
