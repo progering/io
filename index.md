@@ -28,7 +28,7 @@ if kool == 'TDK' and (klass == 8 or klass == 9) and huvi == 'jah':
 * [18. jaanuar](/15)
 * [25. jaanuar](/16)
 * [1. veebruar](/17)
-* 8. veebruar (jäi ära võrgu hoolduse tõttu)
+* *8. veebruar (jäi ära võrgu hoolduse tõttu)*
 * [15. veebruar](/18)
 
 
