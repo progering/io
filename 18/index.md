@@ -16,7 +16,7 @@ aside.notice {
 
 </style>
 
-# 8. veebruar
+# 15. veebruar
 
 Hakkame tegelema veebiprogrammidega!
 
