@@ -29,11 +29,11 @@ if kool == 'TDK' and (klass == 8 or klass == 9) and huvi == 'jah':
 * [25. jaanuar](/16)
 * [01. veebruar](/17)
 * *08. veebruar (jäi ära võrgu hoolduse tõttu)*
-* [15. veebruar](/18)
-* 22. veebruar (HTML)
-* 01. märts (HTML)
-* 08. märts (HTML)
-* 15. märts (HTML)
-* 22. märts (Veebiprogrammid)
+* [15. veebruar](/veeb)
+* [22. veebruar] (/veeb)
+* [01. märts] (/veeb)
+* [08. märts] (/veeb)
+* [15. märts] (/veeb)
+* [22. märts] (/veeb)
 
 

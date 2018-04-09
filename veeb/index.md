@@ -16,9 +16,7 @@ aside.notice {
 
 </style>
 
-# 15. veebruar
-
-Hakkame tegelema veebiprogrammidega!
+# Veebiprogrammid
 
 ## Lingid
 
